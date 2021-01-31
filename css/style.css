@@ -37,6 +37,10 @@ p {
   #index-banner .section {
     top: 10%;
   }
+
+  .imgTest {
+    height: 120px;
+  }
 }
 
 @media only screen and (max-width : 600px) {
